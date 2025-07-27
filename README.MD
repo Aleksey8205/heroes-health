@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/github/webhook?id=je7tr0cubwfg34my)](https://ci.appveyor.com/api/github/webhook?id=je7tr0cubwfg34my)
