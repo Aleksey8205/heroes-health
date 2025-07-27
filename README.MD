@@ -1,1 +1,1 @@
-[![Build status](https://ci.appveyor.com/api/github/webhook?id=je7tr0cubwfg34my)](https://ci.appveyor.com/api/github/webhook?id=je7tr0cubwfg34my)
+[![Build status](https://ci.appveyor.com/api/projects/status/rgiog80tn3vr9131/branch/main?svg=true)](https://ci.appveyor.com/project/Aleksey8205/heroes-health/branch/main)
