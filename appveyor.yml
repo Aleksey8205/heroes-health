@@ -1,0 +1,11 @@
+environment:
+  matrix:
+    - NODE_VERSION: "20"
+
+install:
+  - npm install
+
+build: off
+
+test_script:
+  - npm run test
